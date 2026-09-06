@@ -38,7 +38,7 @@ DS-OOPS/
 ├── 📁 ArrayList/              # Dynamic arrays implementation using ArrayList
 ├── 📁 Exception Handling/     # Exception handling, try-catch, custom exceptions
 ├── 📁 File Handling/          # File Reader/Writer, Scanner streams & file I/O
-├── 📁 JAVA 1/                 # Foundational Java concepts & scripts
+├── 📁 JAVA Questions/         # Foundational Java concepts & scripts
 ├── 📁 LinkedHashSet/          # Ordered unique element storage operations
 ├── 📁 LinkedList/             # Node-based linear structure examples
 ├── 📁 MIX/                    # Comprehensive exam-style mixed problems
