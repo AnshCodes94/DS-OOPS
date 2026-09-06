@@ -24,6 +24,7 @@ A comprehensive repository containing Java-based solutions, core data structures
 | **Arrays & Strings** | 1D & 2D Arrays, Matrices, String operations, and `StringBuilder`<br>![Arrays & Strings](https://img.shields.io/badge/Data_Structures-1D/2D_Arrays_%7C_StringBuilder-green?style=flat-square) |
 | **Collections Framework** | `ArrayList`, `LinkedList`, `LinkedHashSet`, `TreeSet`<br>![Collections](https://img.shields.io/badge/Collections-ArrayList_%7C_LinkedList_%7C_Set-purple?style=flat-square) |
 | **Exception Handling** | `try-catch-finally`, custom exceptions, `throw`, and `throws`<br>![Exception Handling](https://img.shields.io/badge/Errors-Exception_Handling-yellow?style=flat-square) |
+| **File Handling & I/O** | File Reader/Writer, Scanner I/O streams, and file manipulations<br>![File I/O](https://img.shields.io/badge/I%2FO-File_Handling-lightgrey?style=flat-square) |
 
 ---
 
@@ -36,6 +37,7 @@ DS-OOPS/
 ├── 📁 2D-ArraysDemo/          # Matrix operations and multi-dimensional logic
 ├── 📁 ArrayList/              # Dynamic arrays implementation using ArrayList
 ├── 📁 Exception Handling/     # Exception handling, try-catch, custom exceptions
+├── 📁 File Handling/          # File Reader/Writer, Scanner streams & file I/O
 ├── 📁 JAVA 1/                 # Foundational Java concepts & scripts
 ├── 📁 LinkedHashSet/          # Ordered unique element storage operations
 ├── 📁 LinkedList/             # Node-based linear structure examples
